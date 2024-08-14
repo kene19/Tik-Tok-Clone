@@ -13,5 +13,5 @@ This project is a simplified clone of the popular social media app TikTok. It al
 
 - **Frontend**: HTML, CSS, JavaScript
 
-use this link to see <a href="">TikTok Clone</a>
+use this link to see <a href="https://kene19.github.io/Tik-Tok-Clone/">TikTok Clone</a>
   
